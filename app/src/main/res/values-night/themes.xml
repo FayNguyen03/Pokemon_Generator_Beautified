@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RandomPet" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="backgroundTint">@color/cardview_dark_background</item>
+        <item name="android:fontFamily">@font/annie_use_your_telescope</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/seasalt</item>
+
+    </style>
+
+</resources>
